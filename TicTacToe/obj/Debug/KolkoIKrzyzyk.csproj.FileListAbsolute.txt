@@ -1,0 +1,11 @@
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\bin\Debug\KolkoIKrzyzyk.exe.config
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\bin\Debug\KolkoIKrzyzyk.exe
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\bin\Debug\KolkoIKrzyzyk.pdb
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.csprojResolveAssemblyReference.cache
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.Properties.Resources.resources
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.csproj.GenerateResource.Cache
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.csproj.CoreCompileInputs.cache
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.exe
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.pdb
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.Plansza.resources
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 1\KolkoIKrzyzyk\KolkoIKrzyzyk\obj\Debug\KolkoIKrzyzyk.Gracze.resources
